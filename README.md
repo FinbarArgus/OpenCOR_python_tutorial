@@ -15,7 +15,7 @@ install git, and then open the terminal and navigate (with terminal
 in Linux/Mac or gitbash in Windows) to a directory where you want the 
 repository to be. Then write these commands to clone the project on your pc:
 
-    git clone https://github.com/FinbarArgus/circulatory_autogen
+    git clone https://github.com/FinbarArgus/OpenCOR_python_tutorial.git
 
 
 ## Directory Definition
@@ -44,9 +44,10 @@ Note that the windows path conventions need to be used with C: and "\ rather tha
 
 # IDE Note 
 
-  If you want to use an IDE such as vscode, you have to set your python path to the same as the opencor_pythonshell_path above
-  If you're on Windows we recommend using and IDE and setting the bath. 
-  If you want to use the bash script on Windows, you should download gitbash from [here](https://git-scm.com/downloads). 
+  If you want to use an IDE such as vscode, you have to set your python path to the same as the opencor_pythonshell_path above.
+
+  If you're on Windows, we recommend using an IDE and setting the path. 
+  If instead, you want to use the bash script on Windows, you should download gitbash from [here](https://git-scm.com/downloads). 
 
 # Running
 

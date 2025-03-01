@@ -3,4 +3,4 @@
 # the below for my hpc
 # opencor_pythonshell_path=/hpc/farg967/OpenCOR-0-8-1-Linux/pythonshell
 # the below for my local
-opencor_pythonshell_path=/home/farg967/software/OpenCOR-0-8-Linux/pythonshell
+opencor_pythonshell_path=/home/farg967/software/OpenCOR-0-8-1-Linux/pythonshell

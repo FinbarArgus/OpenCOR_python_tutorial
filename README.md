@@ -8,8 +8,6 @@ Download and install OpenCOR version 0.8.1 from this [link](https://opencor.ws/d
 
 **2. Clone the project**
 
-Clone the tutorial from the [GitHub repository](https://github.com/FinbarArgus/OpenCOR_python_tutorial).
-
 If you have not worked with git and GitHub, firstly download and 
 install git, and then open the terminal and navigate (with terminal 
 in Linux/Mac or gitbash in Windows) to a directory where you want the 

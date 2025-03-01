@@ -5,10 +5,10 @@ from opencor_helper import SimulationHelper
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-root_dir = os.path.join(os.path.dirname(__file__))
+working_dir = os.path.join(os.path.dirname(__file__))
 
 # Modify the file path for the model you want to run
-file_path = os.path.join(root_dir, 'example_models/3compartment.cellml')
+file_path = os.path.join(working_dir, 'example_models/3compartment.cellml')
 
 # where you want your outputs to be saved
 output_file_path = "outputs"
